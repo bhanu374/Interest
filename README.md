@@ -25,7 +25,7 @@ A web-based tool to calculate compound interest over a range of years. This tool
 
 ## How to Use
 
-1. Open the calculator in a web browser by visiting the [live website](https://bhanu374.github.io/interest/). 
+1. Open the calculator in a web browser by visiting the [live website](https://bhanu374.github.io/Interest/). 
 2. Enter the following details:
    - **Principal Amount**: The starting amount in Rs.
    - **Amount in Rs**: Choose from the list of values (1, 1.5, 2, 2.5, or 3) to determine the interest rate.
